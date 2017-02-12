@@ -7,5 +7,11 @@
 7
 9
 branch dev
+<<<<<<< HEAD
 feature123
 feature always 1
+=======
+new feature
+feature2
+feature always
+>>>>>>> refs/remotes/origin/master
